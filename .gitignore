@@ -73,3 +73,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets
+/.vscode
+/Documentation
+/Packages
+/ProjectSettings
+/UniTaN_Protobuf_Build
+BACKUP_TEMP.txt
