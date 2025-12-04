@@ -75,7 +75,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /Assets
 /.vscode
-/Documentation
+# Documentation (ignore all except banner for README)
+/Documentation/*
+!/Documentation/unitan_banner.png
 /Packages
 /ProjectSettings
 /UniTaN_Protobuf_Build
