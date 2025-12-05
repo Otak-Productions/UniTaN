@@ -82,3 +82,4 @@ crashlytics-build.properties
 /ProjectSettings
 /UniTaN_Protobuf_Build
 BACKUP_TEMP.txt
+/.agent
